@@ -1,1 +1,2 @@
-# sidcy-gulfintl.ae
+- name: Super-Linter
+  uses: super-linter/super-linter@v8.2.1
